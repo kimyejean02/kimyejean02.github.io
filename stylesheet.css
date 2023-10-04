@@ -1,0 +1,18 @@
+body {
+    background-color:forestgreen;
+    text-align:center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size:20px; color:white;
+}
+h1 {
+    color:antiquewhite;
+    font-size:40px;
+    text-align:center;
+    font-family:Georgia;
+}
+p {
+    color:darkgrey;
+    font-size:20px;
+    text-align:center;
+    font-family:Georgia;
+}
