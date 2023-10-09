@@ -2,26 +2,26 @@ body {
     background-color:darkgreen;
     text-align:center;
     font-family:Georgia, 'Times New Roman', Times, serif;
-    font-size:20px; color:white;
+    font-size:20px;
+    color:white;
 }
 
-h1 {
+.page {
+    background-color: antiquewhite;
+    color:saddlebrown;
+    font-size:20px;
+}
+
+#greeting {
     color:antiquewhite;
     font-size:40px;
     text-align:center;
     font-family:Georgia, 'Times New Roman', Times, serif;
 }
-p {
+
+#welcome {
     color:darkgrey;
     font-size:20px;
     text-align:center;
     font-family:Georgia, 'Times New Roman', Times, serif;
-}
-
-.class-name {
- 
-}
-
-#page-name {
-
 }
