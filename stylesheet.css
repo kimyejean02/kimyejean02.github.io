@@ -1,11 +1,12 @@
 div {
     width: 300px;
-    border: 15px solid darkgreen;
+    border: 15px solid white;
     padding: 50px;
     margin: 20px;
 }
 
 body {
+    background-color:darkgreen;
     text-align:center;
     font-family:Georgia, 'Times New Roman', Times, serif;
     font-size:20px;
@@ -13,18 +14,17 @@ body {
 }
 
 a:hover {
-    color: antiquewhite;
+    color: darkgray;
 }
 
 .page {
-    background-color: antiquewhite;
-    color:saddlebrown;
+    background-color: white;
+    color:black;
     font-size:20px;
 }
 
 #greeting {
-    color:antiquewhite;
-    background-color:darkgreen;
+    color:white;
     font-size:40px;
     text-align:center;
     font-family:Georgia, 'Times New Roman', Times, serif;
@@ -32,7 +32,6 @@ a:hover {
 
 #welcome {
     color:darkgrey;
-    background-color:darkgreen;
     font-size:20px;
     text-align:center;
     font-family:Georgia, 'Times New Roman', Times, serif;
