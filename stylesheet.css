@@ -1,23 +1,21 @@
+body {
+    background-color:darkgreen;
+    text-align:center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size:20px;
+}
+
 div {
+    color:black;
+    background-color: white;
     border: 15px solid white;
     padding: 50px;
     margin: 20px;
     text-align: center;
 }
 
-body {
-    background-color:darkgreen;
-    text-align:center;
-    font-family:Georgia, 'Times New Roman', Times, serif;
-    font-size:20px;
-    color:white;
-}
-
 p {
-    background-color: white;
-    color:black;
     font-size:20px;
-    text-align:center;
 }
 
 a:hover {
@@ -25,10 +23,7 @@ a:hover {
 }
 
 .page {
-    background-color: white;
-    color:black;
     font-size:30px;
-    text-align:center;
 }
 
 #greeting {
@@ -40,7 +35,4 @@ a:hover {
 
 #welcome {
     color:darkgrey;
-    font-size:20px;
-    text-align:center;
-    font-family:Georgia, 'Times New Roman', Times, serif;
 }
