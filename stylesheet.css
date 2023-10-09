@@ -1,9 +1,12 @@
 body {
-    background-color:darkgreen;
     text-align:center;
     font-family:Georgia, 'Times New Roman', Times, serif;
     font-size:20px;
     color:white;
+}
+
+a:hover {
+    background-color: darkgray;
 }
 
 .page {
@@ -14,6 +17,7 @@ body {
 
 #greeting {
     color:antiquewhite;
+    background-color:darkgreen;
     font-size:40px;
     text-align:center;
     font-family:Georgia, 'Times New Roman', Times, serif;
@@ -21,6 +25,7 @@ body {
 
 #welcome {
     color:darkgrey;
+    background-color:darkgreen;
     font-size:20px;
     text-align:center;
     font-family:Georgia, 'Times New Roman', Times, serif;
